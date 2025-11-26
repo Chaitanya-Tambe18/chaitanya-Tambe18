@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Chaitanya Tambe</h1>
 
-<h3 align="center">A passionate Full stack web developer from India. </h3>
+
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
@@ -60,3 +60,4 @@
   <!-- <a href = "https://auth.geeksforgeeks.org/user/sakshigoyat14"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a> -->
 
 </p>
+
